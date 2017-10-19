@@ -15,6 +15,7 @@ namespace VSHelloWord_130221018
         public static void Main(string[] args)
         {
             //Comentário de teste
+            //Segundo comentário de teste
             BuildWebHost(args).Run();
         }
 
