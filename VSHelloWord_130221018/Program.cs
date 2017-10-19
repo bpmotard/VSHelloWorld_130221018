@@ -16,8 +16,8 @@ namespace VSHelloWord_130221018
         {
             //Comentário de teste
             //Segundo comentário de teste
-
-            //Bruno Patrício    
+            //És uma Batata 
+            //Turkeys are awesomeeeee!!!! :{D
             BuildWebHost(args).Run();
         }
 
